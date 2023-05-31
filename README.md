@@ -1,6 +1,8 @@
 Hi there, I'm Vaibhav Pawar! 👋
-I'm a Currently Studing Bachlors of Engineering in Artificial Intelligence & Data Science !
-who is passionate about Android Developent & Web technologies 😊. 
+
+I'm a Currently Studing Bachelor of Engineering in Artificial Intelligence & Data Science !
+I'm passionate about Android Developent & Web technologies 😊. 
+
 Welcome to my GitHub profile!
 
 🔭 What I'm currently working on
